@@ -3,11 +3,14 @@
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em **Análise de Dados**. movido e interessado em transformar dados brutos em decisões estratégicas através de código e visualização.
 
 ### 🛠 Habilidades Técnicas
-* **Linguagens:** Python (Pandas, NumPy, Matplotlib/Seaborn).
-* **Banco de Dados:** SQL (Consultas, Joins, Agregações).
-* **Visualização:** Power BI (DAX, Modelagem de Dados).
-* **Ambiente:** VS Code, Jupyter Notebooks.
-* **Versionamento:** Git & GitHub.
+![Python](https://img.shields.io/badge/Python-006400?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-006400?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-006400?style=for-the-badge&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-006400?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do Victor](https://github-readme-stats.vercel.app/api?username=VictorDouglas-Dev&show_icons=true&theme=onedark&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=006400)
 
 ### 🚀 Projetos em Destaque
 * **[Análise de Performance: Anki Analytics](https://github.com/VictorDouglas-Dev/analise-performance-ankidroid)**
