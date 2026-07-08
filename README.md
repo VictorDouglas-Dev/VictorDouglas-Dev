@@ -8,12 +8,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em **Aná
 ![Power BI](https://img.shields.io/badge/Power_BI-006400?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-006400?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Estatísticas do GitHub
-
-<a href="https://github.com/VictorDouglas-Dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorDouglas-Dev&show_icons=true&theme=onedark&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=006400" />
-</a>
-
 ### 🚀 Projetos em Destaque
 * **[Análise de Performance: Anki Analytics](https://github.com/VictorDouglas-Dev/analise-performance-ankidroid)**
   * Análise de correlação entre tempo de estudo e assertividade.
