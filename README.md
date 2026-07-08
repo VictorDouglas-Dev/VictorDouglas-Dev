@@ -10,7 +10,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em **Aná
 
 ### 📊 Estatísticas do GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorDouglas-Dev&show_icons=true&theme=onedark&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=006400" />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VictorDouglas-Dev&show_icons=true&theme=onedark&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=006400)
 
 ### 🚀 Projetos em Destaque
 * **[Análise de Performance: Anki Analytics](https://github.com/VictorDouglas-Dev/analise-performance-ankidroid)**
